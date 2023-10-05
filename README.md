@@ -1,6 +1,6 @@
-# CURSO-web-development
-Neste curso vamos aprender as linguagens html css e javaScript.
+# Tutorial-web-development
+Neste tutorial vamos aprender as linguagens html css e javaScript.
 
-- conceitos básicos, intermediários e avançados.
-- exercícios e projetos pra colocar tudo em prática e alavancar seu aprendizado.
-- dicas , links de cursos e novos projetos.
+- Conceitos básicos, intermediários e avançados.
+- Exercícios e projetos pra colocar tudo em prática e alavancar seu aprendizado.
+- Dicas , links de cursos e novos projetos.
